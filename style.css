@@ -332,6 +332,52 @@ footer { padding: 40px 0 56px; border-top: 1px solid var(--hair); margin-top: 30
   .reveal { opacity: 1; transform: none; }
 }
 
+.locale-select {
+  max-width: 230px;
+  min-height: 40px;
+  padding: 8px 34px 8px 12px;
+  border: 1px solid rgba(79, 107, 230, 0.24);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.82);
+  color: var(--ink);
+  font: inherit;
+}
+
+.legal-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.copy-block p,
+[data-zafe="pro"],
+[data-zafe="description"] {
+  white-space: pre-line;
+}
+
+.doc {
+  display: grid;
+  gap: 18px;
+}
+
+.doc .card {
+  margin: 0;
+}
+
+[dir="rtl"] .nav,
+[dir="rtl"] .foot {
+  direction: rtl;
+}
+
+@media (max-width: 760px) {
+  .legal-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .locale-select {
+    width: 100%;
+    max-width: none;
+  }
+}
+
 /* Template compatibility additions */
 .icon { display: inline-block; object-fit: cover; }
 .emoji {

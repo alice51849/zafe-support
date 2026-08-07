@@ -1,31 +1,57 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-US">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Support — Zafe</title>
-  <meta name="description" content="Zafe support FAQ for importing private photos and videos, Face ID, passcode, Zafe Pro, Decoy vault, Break-in log, Private browser, and permissions.">
+  <title>Zafe Support</title>
+  <meta name="description" content="Zafe support, feature details, privacy disclosures and contact information.">
   <link rel="icon" href="assets/favicon.svg">
   <link rel="stylesheet" href="style.css">
+  <script src="locales.js"></script>
+  <script src="site.js" defer></script>
 </head>
-<body>
+<body data-page="support">
   <div class="bg"><span class="blob"></span></div>
-  <header><div class="wrap nav"><a class="brand" href="index.html"><img class="icon" src="icon.png" alt="Zafe"><span>Zafe</span></a><nav class="nav-links" aria-label="Primary navigation"><a href="index.html#features" data-i18n="navFeatures">Features</a><a href="privacy.html" data-i18n="navPrivacy">Privacy</a><a href="support.html" data-i18n="navSupport">Support</a><div class="lang" aria-label="Language selector"><button class="btn-sm lang-btn" type="button" data-lang="en">EN</button><button class="btn-sm lang-btn" type="button" data-lang="zh-Hant">中文</button><button class="btn-sm lang-btn" type="button" data-lang="ja">日本語</button><button class="btn-sm lang-btn" type="button" data-lang="ko">한국어</button></div><a class="btn btn-sm" href="https://apps.apple.com/app/zafe" data-i18n="navDownload">Coming soon</a></nav></div></header>
+  <header>
+    <div class="wrap nav">
+      <a class="brand" data-page-link="home" href="index.html"><img class="icon" src="icon.png" alt="Zafe"><span>Zafe</span></a>
+      <nav class="nav-links" aria-label="Zafe">
+        <a data-page-link="privacy" data-zafe="privacyTitle" href="privacy.html">Zafe Privacy Policy</a>
+        <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Apple Standard EULA</a>
+        <select id="localePicker" class="locale-select" aria-label="Language"></select>
+      </nav>
+    </div>
+  </header>
   <main>
-    <section class="hero wrap reveal"><img class="icon app-icon" src="icon.png" alt="Zafe app icon"><h1 data-i18n="pageTitle">Support</h1><p class="sub" data-i18n="heroSub">Find answers about importing, unlocking, Zafe Pro, privacy, and permissions. For direct help, email hourstag.app@gmail.com.</p></section>
-    <section class="wrap reveal"><div class="section-title"><span class="eyebrow" data-i18n="faqLabel">FAQ</span><h2 data-i18n="pageTitle">Support</h2></div><div class="faq">
-      <details open><summary data-i18n="q1">What is Zafe?</summary><p data-i18n="a1">Zafe is a private photo and video vault for iPhone and iPad. It protects imported media with Face ID / Touch ID, a 6-digit passcode, and AES-256 encrypted on-device storage.</p></details>
-      <details><summary data-i18n="q2">Are my photos or videos uploaded anywhere?</summary><p data-i18n="a2">No. Zafe is local-first, has no account system, and does not connect to any server for your vault content. The developer cannot see your photos or videos.</p></details>
-      <details><summary data-i18n="q3">What is included for free?</summary><p data-i18n="a3">Core features include creating one album, importing photos and videos, viewing and playing vault content, Face ID / passcode lock, auto-lock, and an app switcher privacy screen.</p></details>
-      <details><summary data-i18n="q4">What does Zafe Pro unlock? Is it a subscription?</summary><p data-i18n="a4">Zafe Pro is a one-time purchase, not a subscription. It unlocks unlimited albums and items, Decoy vault, Break-in log, Private browser downloads, and alternate app icons.</p></details>
-      <details><summary data-i18n="q5">What is Decoy vault?</summary><p data-i18n="a5">With Zafe Pro, you can set a decoy passcode that opens a separate harmless vault, keeping your real vault hidden behind your main passcode.</p></details>
-      <details><summary data-i18n="q6">How does Break-in log work?</summary><p data-i18n="a6">If enabled, Zafe can record the time of a wrong passcode attempt and optionally capture a front-camera photo. Location is optional and only used if you allow it for that log entry.</p></details>
-      <details><summary data-i18n="q7">Why does Zafe ask for permissions?</summary><p data-i18n="a7">Photo Library is used to import items you choose and optionally remove originals. Face ID / Touch ID unlocks the vault. Camera is only for optional intruder selfies. Location is only optional for Break-in log entries.</p></details>
-      <details><summary data-i18n="q8">What if I forget my passcode?</summary><p data-i18n="a8">For privacy, Zafe does not have a developer-accessible account or recovery server. Keep your passcode safe; the developer cannot unlock or view your vault.</p></details>
-    </div></section>
-    <section class="wrap doc reveal"><article class="card"><h2 data-i18n="contactTitle">Contact</h2><p data-i18n="contactText">Email us at hourstag.app@gmail.com. Please include your device model, iOS/iPadOS version, Zafe version, and a short description of the issue. Do not send private photos or videos.</p></article></section>
+    <section class="hero wrap reveal in">
+      <img class="icon app-icon" src="icon.png" alt="Zafe app icon">
+      <h1 data-zafe="supportTitle">Zafe Support</h1>
+      <p class="sub" data-zafe="promo"></p>
+    </section>
+    <section class="wrap doc">
+      <article class="card copy-block"><p data-zafe="description"></p></article>
+    </section>
+    <section class="wrap">
+      <article class="card">
+        <h2 data-zafe="contactLabel">Contact</h2>
+        <p><a href="mailto:hourstag.app@gmail.com">hourstag.app@gmail.com</a></p>
+      </article>
+    </section>
+    <section class="wrap">
+      <div class="cta-row">
+        <a class="btn" data-page-link="privacy" data-zafe="privacyTitle" href="privacy.html">Zafe Privacy Policy</a>
+        <a class="btn btn-ghost" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Apple Standard EULA</a>
+      </div>
+    </section>
   </main>
-  <footer><div class="wrap"><div class="foot"><a class="brand" href="index.html"><img class="icon" src="icon.png" alt="Zafe"><span>Zafe</span></a><div class="foot-links"><a href="index.html" data-i18n="footHome">Home</a><a href="privacy.html" data-i18n="footPrivacy">Privacy</a><a href="support.html" data-i18n="footSupport">Support</a><a href="mailto:hourstag.app@gmail.com">hourstag.app@gmail.com</a></div></div><p class="copy" data-i18n="copy">© 2026 Cait518. All rights reserved.</p></div></footer>
-<script>window.ZAFE_I18N={en:{navFeatures:"Features",navPrivacy:"Privacy",navSupport:"Support",navDownload:"Coming soon",footHome:"Home",footPrivacy:"Privacy",footSupport:"Support",copy:"© 2026 Cait518. All rights reserved.",switchTo:"Switch language to",metaTitle:"Support — Zafe",metaDescription:"Zafe support FAQ for importing private photos and videos, Face ID, passcode, Zafe Pro, Decoy vault, Break-in log, Private browser, and permissions.",pageTitle:"Support",faqLabel:"FAQ",heroSub:"Find answers about importing, unlocking, Zafe Pro, privacy, and permissions. For direct help, email hourstag.app@gmail.com.",contactTitle:"Contact",contactText:"Email us at hourstag.app@gmail.com. Please include your device model, iOS/iPadOS version, Zafe version, and a short description of the issue. Do not send private photos or videos.",q1:"What is Zafe?",a1:"Zafe is a private photo and video vault for iPhone and iPad. It protects imported media with Face ID / Touch ID, a 6-digit passcode, and AES-256 encrypted on-device storage.",q2:"Are my photos or videos uploaded anywhere?",a2:"No. Zafe is local-first, has no account system, and does not connect to any server for your vault content. The developer cannot see your photos or videos.",q3:"What is included for free?",a3:"Core features include creating one album, importing photos and videos, viewing and playing vault content, Face ID / passcode lock, auto-lock, and an app switcher privacy screen.",q4:"What does Zafe Pro unlock? Is it a subscription?",a4:"Zafe Pro is a one-time purchase, not a subscription. It unlocks unlimited albums and items, Decoy vault, Break-in log, Private browser downloads, and alternate app icons.",q5:"What is Decoy vault?",a5:"With Zafe Pro, you can set a decoy passcode that opens a separate harmless vault, keeping your real vault hidden behind your main passcode.",q6:"How does Break-in log work?",a6:"If enabled, Zafe can record the time of a wrong passcode attempt and optionally capture a front-camera photo. Location is optional and only used if you allow it for that log entry.",q7:"Why does Zafe ask for permissions?",a7:"Photo Library is used to import items you choose and optionally remove originals. Face ID / Touch ID unlocks the vault. Camera is only for optional intruder selfies. Location is only optional for Break-in log entries.",q8:"What if I forget my passcode?",a8:"For privacy, Zafe does not have a developer-accessible account or recovery server. Keep your passcode safe; the developer cannot unlock or view your vault."}};window.ZAFE_I18N['zh-Hant']=window.ZAFE_I18N.en;window.ZAFE_I18N.ja=window.ZAFE_I18N.en;window.ZAFE_I18N.ko=window.ZAFE_I18N.en;</script><script>(function(){const supported=['en','zh-Hant','ja','ko'];const langNames={en:'English','zh-Hant':'繁體中文',ja:'日本語',ko:'한국어'};function detectLang(){const saved=localStorage.getItem('zafe_lang');return supported.includes(saved)?saved:'en'}function applyLang(lang){const dict=window.ZAFE_I18N[lang]||window.ZAFE_I18N.en;document.documentElement.lang=lang;document.title=dict.metaTitle;const meta=document.querySelector('meta[name="description"]');if(meta)meta.setAttribute('content',dict.metaDescription);document.querySelectorAll('[data-i18n]').forEach(el=>{const value=dict[el.getAttribute('data-i18n')];if(value!==undefined)el.textContent=value});document.querySelectorAll('[data-lang]').forEach(btn=>{const active=btn.getAttribute('data-lang')===lang;btn.classList.toggle('active',active);btn.setAttribute('aria-pressed',active?'true':'false');btn.setAttribute('aria-label',(dict.switchTo||'Switch language to')+' '+langNames[btn.getAttribute('data-lang')])})}window.setZafeLang=function(lang){if(!supported.includes(lang))return;localStorage.setItem('zafe_lang',lang);applyLang(lang)};document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('[data-lang]').forEach(btn=>btn.addEventListener('click',()=>window.setZafeLang(btn.getAttribute('data-lang'))));applyLang(detectLang());const reveal=function(){document.querySelectorAll('.reveal').forEach(el=>{if(el.getBoundingClientRect().top<window.innerHeight-60)el.classList.add('in')})};reveal();window.addEventListener('scroll',reveal,{passive:true})})}());</script>
+  <footer>
+    <div class="wrap foot">
+      <a class="brand" data-page-link="home" href="index.html"><span>Zafe</span></a>
+      <div class="foot-links">
+        <a data-page-link="privacy" data-zafe="privacyTitle" href="privacy.html">Zafe Privacy Policy</a>
+        <a href="mailto:hourstag.app@gmail.com">hourstag.app@gmail.com</a>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>

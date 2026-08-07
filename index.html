@@ -1,110 +1,71 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-US">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Zafe — Private Photo & Video Vault</title>
-  <meta name="description" content="Zafe is a private photo and video vault for iPhone and iPad with Face ID, passcode protection, and AES-256 encrypted on-device storage. No account, ads, tracking, or servers.">
+  <title>Zafe — On-device privacy vault</title>
+  <meta name="description" content="Protect photos, videos, files and notes on your device with Face ID and a password-protected backup.">
   <link rel="icon" href="assets/favicon.svg">
   <link rel="stylesheet" href="style.css">
+  <script src="locales.js"></script>
+  <script src="site.js" defer></script>
 </head>
-<body>
+<body data-page="home">
   <div class="bg"><span class="blob"></span></div>
   <header>
     <div class="wrap nav">
-      <a class="brand" href="index.html"><img class="icon" src="icon.png" alt="Zafe"><span>Zafe</span></a>
-      <nav class="nav-links" aria-label="Primary navigation">
-        <a href="index.html#features" data-i18n="navFeatures">Features</a>
-        <a href="privacy.html" data-i18n="navPrivacy">Privacy</a>
-        <a href="support.html" data-i18n="navSupport">Support</a>
-        <div class="lang" aria-label="Language selector">
-          <button class="btn-sm lang-btn" type="button" data-lang="en">EN</button>
-          <button class="btn-sm lang-btn" type="button" data-lang="zh-Hant">中文</button>
-          <button class="btn-sm lang-btn" type="button" data-lang="ja">日本語</button>
-          <button class="btn-sm lang-btn" type="button" data-lang="ko">한국어</button>
-        </div>
-        <a class="btn btn-sm" href="https://apps.apple.com/app/zafe" data-i18n="navDownload">Coming soon</a>
+      <a class="brand" data-page-link="home" href="index.html"><img class="icon" src="icon.png" alt="Zafe"><span>Zafe</span></a>
+      <nav class="nav-links" aria-label="Zafe">
+        <a data-page-link="privacy" data-zafe="privacyTitle" href="privacy.html">Zafe Privacy Policy</a>
+        <a data-page-link="support" data-zafe="supportTitle" href="support.html">Zafe Support</a>
+        <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Apple Standard EULA</a>
+        <select id="localePicker" class="locale-select" aria-label="Language"></select>
       </nav>
     </div>
   </header>
   <main>
-    <section class="hero wrap reveal">
+    <section class="hero wrap reveal in">
       <img class="icon app-icon" src="icon.png" alt="Zafe app icon">
-      <span class="eyebrow" data-i18n="heroEyebrow">Private vault for iPhone & iPad</span>
-      <h1 data-i18n="heroTitle">Hide private photos and videos in an encrypted space.</h1>
-      <p class="tagline" data-i18n="heroTagline">Face ID / Touch ID, a 6-digit passcode, and AES-256 encryption — all on your device.</p>
-      <p class="sub" data-i18n="heroSub">Zafe keeps sensitive memories behind a private vault. There is no account, no ads, no tracking, and the app does not connect to any server.</p>
+      <span class="eyebrow">Zafe</span>
+      <h1 data-zafe="homeTitle">Clear on-device privacy</h1>
+      <p class="tagline" data-zafe="promo">Protect photos, videos, files and notes on your device with Face ID and a password-protected backup.</p>
+      <p class="sub" data-zafe="free">Free includes 1 album, up to 10 items, Secure Notes, auto-lock, and Face ID or a passcode.</p>
       <div class="cta-row">
-        <a class="btn" href="https://apps.apple.com/app/zafe"><span class="store"><span class="appstore-sub" data-i18n="appStoreSmall">App Store</span><b data-i18n="appStoreBig">Coming soon</b></span></a>
-        <a class="btn btn-ghost" href="#features" data-i18n="learnMore">Learn more</a>
-      </div>
-      <div class="badges">
-        <span class="pill" data-i18n="badge1">Encrypted on device</span>
-        <span class="pill" data-i18n="badge2">No account</span>
-        <span class="pill" data-i18n="badge3">No ads or tracking</span>
-        <span class="pill" data-i18n="badge4">One-time Pro upgrade</span>
-      </div>
-      <div class="device-stage" aria-hidden="true">
-        <div class="device"><div class="screen">
-          <span class="scr-label" data-i18n="screenLabel">Zafe Vault</span>
-          <div class="scr-big"><span data-i18n="screenBig">Locked</span><br><span data-i18n="screenUnit">private space</span></div>
-          <div class="scr-grid">
-            <div class="scr-card"><span class="ic"></span><b data-i18n="screenAlbums">Albums</b><small>Protected</small></div>
-            <div class="scr-card"><span class="ic"></span><b data-i18n="screenVideos">Videos</b><small>Encrypted</small></div>
-            <div class="scr-card"><span class="ic"></span><b data-i18n="screenDecoy">Decoy</b><small>Pro</small></div>
-            <div class="scr-card"><span class="ic"></span><b data-i18n="screenLog">Break-in log</b><small>Pro</small></div>
-          </div>
-          <div class="scr-cta" data-i18n="screenCta">Unlock with Face ID</div>
-        </div></div>
+        <a class="btn" href="https://apps.apple.com/app/id6787344033">App Store</a>
+        <a class="btn btn-ghost" data-page-link="support" data-zafe="supportTitle" href="support.html">Zafe Support</a>
       </div>
     </section>
-
-    <section id="features" class="wrap reveal">
-      <div class="section-title"><span class="eyebrow" data-i18n="featuresEyebrow">Core protection</span><h2 data-i18n="featuresTitle">Everything private stays local.</h2><p data-i18n="featuresSub">Start free with one protected album, secure import, private viewing, and automatic locking when you leave the app.</p></div>
-      <div class="grid">
-        <article class="card"><span class="emoji">🔐</span><h3 data-i18n="f1Title">Face ID + passcode</h3><p data-i18n="f1Text">Protect the vault with Face ID / Touch ID and a 6-digit passcode.</p></article>
-        <article class="card"><span class="emoji">🛡️</span><h3 data-i18n="f2Title">AES-256 encrypted</h3><p data-i18n="f2Text">Imported photos and videos are stored in an encrypted space on your device.</p></article>
-        <article class="card"><span class="emoji">🖼️</span><h3 data-i18n="f3Title">Private albums</h3><p data-i18n="f3Text">Create an album, import media you pick, then view photos and play videos privately.</p></article>
-        <article class="card"><span class="emoji">🚪</span><h3 data-i18n="f4Title">Auto-lock</h3><p data-i18n="f4Text">Zafe locks automatically when you leave, and protects the app switcher with a privacy screen.</p></article>
-        <article class="card"><span class="emoji">🎭</span><h3 data-i18n="f5Title">Decoy vault</h3><p data-i18n="f5Text">Zafe Pro lets a decoy passcode open a separate harmless vault.</p></article>
-        <article class="card"><span class="emoji">🕵️</span><h3 data-i18n="f6Title">Break-in log</h3><p data-i18n="f6Text">Optional intruder entries can record the time and a front-camera photo after a wrong passcode.</p></article>
+    <section class="wrap">
+      <div class="grid legal-grid">
+        <article class="card"><h2>CryptoKit AES-GCM</h2><p data-zafe="security"></p></article>
+        <article class="card"><h2>Apple StoreKit</h2><p data-zafe="storekit"></p></article>
+        <article class="card"><h2>Location Services · CLGeocoder · Apple Maps</h2><p data-zafe="location"></p></article>
+        <article class="card"><h2>VPN · NetworkExtension · remote config</h2><p data-zafe="capabilities"></p></article>
       </div>
     </section>
-
-    <section class="wrap reveal">
-      <div class="section-title"><span class="eyebrow" data-i18n="privacyEyebrow">Local-first privacy</span><h2 data-i18n="privacyTitle">The developer cannot see your vault.</h2><p data-i18n="privacySub">Zafe has no account system, no analytics, no advertising SDKs, and no server connection for your content.</p></div>
-      <div class="bullets">
-        <div class="bullet"><span class="dot">1</span><div><b data-i18n="b1">100% on-device</b><br><span data-i18n="b1Text">Photos, videos, passcodes, and vault data stay on your iPhone or iPad.</span></div></div>
-        <div class="bullet"><span class="dot">2</span><div><b data-i18n="b2">No account</b><br><span data-i18n="b2Text">Zafe never asks you to sign in or create a profile.</span></div></div>
-        <div class="bullet"><span class="dot">3</span><div><b data-i18n="b3">No tracking</b><br><span data-i18n="b3Text">No ads, analytics, tracking SDKs, or behavioral profiling.</span></div></div>
-        <div class="bullet"><span class="dot">4</span><div><b data-i18n="b4">Private by design</b><br><span data-i18n="b4Text">The app does not upload your private media or metadata to a server.</span></div></div>
-      </div>
+    <section class="wrap">
+      <article class="card copy-block"><p data-zafe="pro"></p></article>
     </section>
-
-    <section class="wrap reveal"><div class="band"><h2 data-i18n="priceTitle">Free core vault. Pay once for Zafe Pro.</h2><p data-i18n="priceSub">Core features are free. Zafe Pro is a one-time purchase that unlocks unlimited albums and items, Decoy vault, Break-in log, Private browser downloads, and alternate app icons.</p><p class="price" data-i18n="price">No subscription. No ads.</p></div></section>
-    <section class="wrap reveal"><div class="band"><h2 data-i18n="supportTitle">Need help?</h2><p data-i18n="supportSub">Read support answers about importing, unlocking, Zafe Pro, permissions, and privacy.</p><div class="cta-row"><a class="btn" href="support.html" data-i18n="supportBtn">Open support</a></div></div></section>
-  </main>
-  <footer>
-    <div class="wrap">
-      <div class="foot">
-        <a class="brand" href="index.html"><img class="icon" src="icon.png" alt="Zafe"><span>Zafe</span></a>
-        <div class="foot-links">
-          <a href="index.html" data-i18n="footHome">Home</a>
-          <a href="privacy.html" data-i18n="footPrivacy">Privacy</a>
-          <a href="support.html" data-i18n="footSupport">Support</a>
-          <a href="mailto:hourstag.app@gmail.com">hourstag.app@gmail.com</a>
+    <section class="wrap">
+      <div class="band">
+        <h2 data-zafe="privacyTitle">Zafe Privacy Policy</h2>
+        <p data-zafe="retention"></p>
+        <div class="cta-row">
+          <a class="btn" data-page-link="privacy" data-zafe="privacyTitle" href="privacy.html">Zafe Privacy Policy</a>
+          <a class="btn btn-ghost" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Apple Standard EULA</a>
         </div>
       </div>
-      <p class="copy" data-i18n="copy">© 2026 Cait518. All rights reserved.</p>
+    </section>
+  </main>
+  <footer>
+    <div class="wrap foot">
+      <a class="brand" data-page-link="home" href="index.html"><span>Zafe</span></a>
+      <div class="foot-links">
+        <a data-page-link="support" data-zafe="supportTitle" href="support.html">Zafe Support</a>
+        <a data-page-link="privacy" data-zafe="privacyTitle" href="privacy.html">Zafe Privacy Policy</a>
+        <a href="mailto:hourstag.app@gmail.com">hourstag.app@gmail.com</a>
+      </div>
     </div>
   </footer>
-<script>window.ZAFE_I18N = { en: {
-  navFeatures:"Features",navPrivacy:"Privacy",navSupport:"Support",navDownload:"Coming soon",footHome:"Home",footPrivacy:"Privacy",footSupport:"Support",copy:"© 2026 Cait518. All rights reserved.",switchTo:"Switch language to",metaTitle:"Zafe — Private Photo & Video Vault",metaDescription:"Zafe is a private photo and video vault for iPhone and iPad with Face ID, passcode protection, and AES-256 encrypted on-device storage. No account, ads, tracking, or servers.",
-  heroEyebrow:"Private vault for iPhone & iPad",heroTitle:"Hide private photos and videos in an encrypted space.",heroTagline:"Face ID / Touch ID, a 6-digit passcode, and AES-256 encryption — all on your device.",heroSub:"Zafe keeps sensitive memories behind a private vault. There is no account, no ads, no tracking, and the app does not connect to any server.",appStoreSmall:"App Store",appStoreBig:"Coming soon",learnMore:"Learn more",badge1:"Encrypted on device",badge2:"No account",badge3:"No ads or tracking",badge4:"One-time Pro upgrade",screenLabel:"Zafe Vault",screenBig:"Locked",screenUnit:"private space",screenAlbums:"Albums",screenVideos:"Videos",screenDecoy:"Decoy",screenLog:"Break-in log",screenCta:"Unlock with Face ID",
-  featuresEyebrow:"Core protection",featuresTitle:"Everything private stays local.",featuresSub:"Start free with one protected album, secure import, private viewing, and automatic locking when you leave the app.",f1Title:"Face ID + passcode",f1Text:"Protect the vault with Face ID / Touch ID and a 6-digit passcode.",f2Title:"AES-256 encrypted",f2Text:"Imported photos and videos are stored in an encrypted space on your device.",f3Title:"Private albums",f3Text:"Create an album, import media you pick, then view photos and play videos privately.",f4Title:"Auto-lock",f4Text:"Zafe locks automatically when you leave, and protects the app switcher with a privacy screen.",f5Title:"Decoy vault",f5Text:"Zafe Pro lets a decoy passcode open a separate harmless vault.",f6Title:"Break-in log",f6Text:"Optional intruder entries can record the time and a front-camera photo after a wrong passcode.",privacyEyebrow:"Local-first privacy",privacyTitle:"The developer cannot see your vault.",privacySub:"Zafe has no account system, no analytics, no advertising SDKs, and no server connection for your content.",b1:"100% on-device",b1Text:"Photos, videos, passcodes, and vault data stay on your iPhone or iPad.",b2:"No account",b2Text:"Zafe never asks you to sign in or create a profile.",b3:"No tracking",b3Text:"No ads, analytics, tracking SDKs, or behavioral profiling.",b4:"Private by design",b4Text:"The app does not upload your private media or metadata to a server.",priceTitle:"Free core vault. Pay once for Zafe Pro.",priceSub:"Core features are free. Zafe Pro is a one-time purchase that unlocks unlimited albums and items, Decoy vault, Break-in log, Private browser downloads, and alternate app icons.",price:"No subscription. No ads.",supportTitle:"Need help?",supportSub:"Read support answers about importing, unlocking, Zafe Pro, permissions, and privacy.",supportBtn:"Open support"
-}}; window.ZAFE_I18N['zh-Hant']=window.ZAFE_I18N.en; window.ZAFE_I18N.ja=window.ZAFE_I18N.en; window.ZAFE_I18N.ko=window.ZAFE_I18N.en;</script>
-<script>
-(function(){const supported=['en','zh-Hant','ja','ko'];const langNames={en:'English','zh-Hant':'繁體中文',ja:'日本語',ko:'한국어'};function detectLang(){const saved=localStorage.getItem('zafe_lang');return supported.includes(saved)?saved:'en'}function applyLang(lang){const dict=window.ZAFE_I18N[lang]||window.ZAFE_I18N.en;document.documentElement.lang=lang;document.title=dict.metaTitle;const meta=document.querySelector('meta[name="description"]');if(meta)meta.setAttribute('content',dict.metaDescription);document.querySelectorAll('[data-i18n]').forEach(el=>{const value=dict[el.getAttribute('data-i18n')];if(value!==undefined)el.textContent=value});document.querySelectorAll('[data-lang]').forEach(btn=>{const active=btn.getAttribute('data-lang')===lang;btn.classList.toggle('active',active);btn.setAttribute('aria-pressed',active?'true':'false');btn.setAttribute('aria-label',(dict.switchTo||'Switch language to')+' '+langNames[btn.getAttribute('data-lang')])})}window.setZafeLang=function(lang){if(!supported.includes(lang))return;localStorage.setItem('zafe_lang',lang);applyLang(lang)};document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('[data-lang]').forEach(btn=>btn.addEventListener('click',()=>window.setZafeLang(btn.getAttribute('data-lang'))));applyLang(detectLang());const reveal=function(){document.querySelectorAll('.reveal').forEach(el=>{if(el.getBoundingClientRect().top<window.innerHeight-60)el.classList.add('in')})};reveal();window.addEventListener('scroll',reveal,{passive:true})})}());
-</script>
 </body>
 </html>
