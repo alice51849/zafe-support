@@ -3,6 +3,29 @@
   "site": "zafe-support",
   "base_url": "https://alice51849.github.io/zafe-support/",
   "email": "hourstag.app@gmail.com",
+  "app_store": {
+    "app_id": "6787344033",
+    "direct_url": "https://apps.apple.com/app/id6787344033",
+    "provider_token": "118326163",
+    "campaign_token": "sup_zafe",
+    "media_type": "8",
+    "label": "App Store",
+    "surfaces": [
+      "index",
+      "support"
+    ]
+  },
+  "legacy_query": {
+    "parameter": "lang",
+    "surfaces": [
+      "index",
+      "support",
+      "privacy"
+    ]
+  },
+  "sitemap_extras": [
+    "help.html"
+  ],
   "official_locales": [
     "ar-SA",
     "bn-BD",
