@@ -31,3 +31,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://open.cait518.cc/zafe-support/sitemap.txt
+
+Sitemap: https://open.cait518.cc/zafe-support/sitemap.xml
