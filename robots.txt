@@ -30,4 +30,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://alice51849.github.io/zafe-support/sitemap.txt
+Sitemap: https://open.cait518.cc/zafe-support/sitemap.txt
