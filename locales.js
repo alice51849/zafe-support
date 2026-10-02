@@ -22,7 +22,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ar-SA",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ar-SA",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "يتوفّر Zafe أيضاً على Android، وقد طُوِّر خصيصاً لهذه المنصة، بنفس المستوى المجاني (ألبوم واحد، حتى 10 عناصر، 3 ملاحظات) وشراء Pro لمرة واحدة يفتح ألبومات وعناصر غير محدودة، ملاحظات إضافية، نسخة احتياطية مشفّرة وأيقونات بديلة. تُشفَّر الملفات على الجهاز باستخدام AES-256-GCM، وتُعالَج عمليات الشراء عبر نظام فوترة Google Play، ولا يتضمن إصدار Android ميزتي Decoy Vault أو Intruder Capture."
   },
   "ca": {
     "locale": "ca",
@@ -47,7 +48,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ca",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ca",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe també està disponible per a Android, desenvolupat de manera nativa per a la plataforma, amb el mateix nivell gratuït (1 àlbum, fins a 10 elements, 3 notes) i una compra Pro única que desbloqueja àlbums i elements il·limitats, més notes, còpia de seguretat xifrada i icones alternatives. Els fitxers es xifren al dispositiu amb AES-256-GCM, les compres es processen mitjançant el sistema de facturació de Google Play, i la versió per a Android no inclou Decoy Vault ni Intruder Capture."
   },
   "cs": {
     "locale": "cs",
@@ -72,7 +74,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=cs",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=cs",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe je k dispozici i pro Android, vyvinutý nativně pro tuto platformu, se stejnou bezplatnou úrovní (1 album, až 10 položek, 3 poznámky) a jednorázovým nákupem Pro, který odemkne neomezené alba a položky, další poznámky, šifrovanou zálohu a alternativní ikony. Soubory jsou šifrovány v zařízení pomocí AES-256-GCM, nákupy jsou zpracovávány prostřednictvím fakturačního systému Google Play a verze pro Android neobsahuje Decoy Vault ani Intruder Capture."
   },
   "da": {
     "locale": "da",
@@ -97,7 +100,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=da",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=da",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe findes også til Android, udviklet nativt til platformen, med samme gratisniveau (1 album, op til 10 elementer, 3 noter) og et engangskøb af Pro, der låser ubegrænsede albums og elementer, flere noter, krypteret backup og alternative ikoner op. Filer krypteres på enheden med AES-256-GCM, køb behandles via Google Plays faktureringssystem, og Android-versionen indeholder ikke Decoy Vault eller Intruder Capture."
   },
   "de-DE": {
     "locale": "de-DE",
@@ -122,7 +126,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=de-DE",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=de-DE",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe ist auch für Android verfügbar und nativ für die Plattform entwickelt, mit demselben kostenlosen Umfang (1 Album, bis zu 10 Elemente, 3 Notizen) und einem einmaligen Pro-Kauf, der unbegrenzte Alben und Elemente, weitere Notizen, ein verschlüsseltes Backup und alternative Symbole freischaltet. Dateien werden auf dem Gerät mit AES-256-GCM verschlüsselt, Käufe werden über das Abrechnungssystem von Google Play abgewickelt, und die Android-Version enthält weder Decoy Vault noch Intruder Capture."
   },
   "el": {
     "locale": "el",
@@ -147,7 +152,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=el",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=el",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Το Zafe διατίθεται και για Android, αναπτυγμένο εγγενώς για την πλατφόρμα, με το ίδιο δωρεάν επίπεδο (1 άλμπουμ, έως 10 στοιχεία, 3 σημειώσεις) και μία εφάπαξ αγορά Pro που ξεκλειδώνει απεριόριστα άλμπουμ και στοιχεία, περισσότερες σημειώσεις, κρυπτογραφημένο αντίγραφο ασφαλείας και εναλλακτικά εικονίδια. Τα αρχεία κρυπτογραφούνται στη συσκευή με AES-256-GCM, οι αγορές διεκπεραιώνονται μέσω του συστήματος χρέωσης του Google Play, και η έκδοση Android δεν περιλαμβάνει Decoy Vault ή Intruder Capture."
   },
   "en-AU": {
     "locale": "en-AU",
@@ -172,7 +178,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=en-AU",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=en-AU",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe is also available for Android, built natively for the platform, with the same free tier (1 album, up to 10 items, 3 notes) and a one-time Pro purchase that unlocks unlimited albums and items, more notes, encrypted backup, and alternate icons. Files are encrypted on-device with AES-256-GCM, purchases are handled through Google Play billing, and the Android version does not include the Decoy Vault or Intruder Capture features."
   },
   "en-CA": {
     "locale": "en-CA",
@@ -197,7 +204,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=en-CA",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=en-CA",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe is also available for Android, built natively for the platform, with the same free tier (1 album, up to 10 items, 3 notes) and a one-time Pro purchase that unlocks unlimited albums and items, more notes, encrypted backup, and alternate icons. Files are encrypted on-device with AES-256-GCM, purchases are handled through Google Play billing, and the Android version does not include the Decoy Vault or Intruder Capture features."
   },
   "en-GB": {
     "locale": "en-GB",
@@ -222,7 +230,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=en-GB",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=en-GB",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe is also available for Android, built natively for the platform, with the same free tier (1 album, up to 10 items, 3 notes) and a one-time Pro purchase that unlocks unlimited albums and items, more notes, encrypted backup, and alternate icons. Files are encrypted on-device with AES-256-GCM, purchases are handled through Google Play billing, and the Android version does not include the Decoy Vault or Intruder Capture features."
   },
   "en-US": {
     "locale": "en-US",
@@ -247,7 +256,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=en-US",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=en-US",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe is also available for Android, built natively for the platform, with the same free tier (1 album, up to 10 items, 3 notes) and a one-time Pro purchase that unlocks unlimited albums and items, more notes, encrypted backup, and alternate icons. Files are encrypted on-device with AES-256-GCM, purchases are handled through Google Play billing, and the Android version does not include the Decoy Vault or Intruder Capture features."
   },
   "es-ES": {
     "locale": "es-ES",
@@ -272,7 +282,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=es-ES",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=es-ES",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe también está disponible para Android, desarrollado de forma nativa para la plataforma, con el mismo nivel gratuito (1 álbum, hasta 10 elementos, 3 notas) y una compra Pro única que desbloquea álbumes y elementos ilimitados, más notas, copia de seguridad cifrada e iconos alternativos. Los archivos se cifran en el dispositivo con AES-256-GCM, las compras se gestionan mediante la facturación de Google Play, y la versión para Android no incluye Decoy Vault ni Intruder Capture."
   },
   "es-MX": {
     "locale": "es-MX",
@@ -297,7 +308,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=es-MX",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=es-MX",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe también está disponible para Android, desarrollado de forma nativa para la plataforma, con el mismo nivel gratuito (1 álbum, hasta 10 elementos, 3 notas) y una compra Pro única que desbloquea álbumes y elementos ilimitados, más notas, respaldo cifrado e iconos alternativos. Los archivos se cifran en el dispositivo con AES-256-GCM, las compras se procesan mediante la facturación de Google Play, y la versión de Android no incluye Decoy Vault ni Intruder Capture."
   },
   "fi": {
     "locale": "fi",
@@ -322,7 +334,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=fi",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=fi",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe on saatavilla myös Androidille, natiivisti alustalle kehitettynä, samalla ilmaistasolla (1 albumi, enintään 10 kohdetta, 3 muistiinpanoa) ja kertaostettavalla Pro-versiolla, joka avaa rajattomat albumit ja kohteet, lisää muistiinpanoja, salatun varmuuskopion ja vaihtoehtoiset kuvakkeet. Tiedostot salataan laitteella AES-256-GCM:llä, ostot käsitellään Google Playn laskutusjärjestelmän kautta, eikä Android-versio sisällä Decoy Vaultia tai Intruder Capturea."
   },
   "fr-CA": {
     "locale": "fr-CA",
@@ -347,7 +360,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=fr-CA",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=fr-CA",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe est aussi offert sur Android, développé nativement pour la plateforme, avec la même offre gratuite (1 album, jusqu'à 10 éléments, 3 notes) et un achat Pro unique qui débloque des albums et éléments illimités, plus de notes, une sauvegarde chiffrée et des icônes de rechange. Les fichiers sont chiffrés sur l'appareil avec AES-256-GCM, les achats sont traités par le système de facturation de Google Play, et la version Android n'inclut pas les fonctions Decoy Vault ni Intruder Capture."
   },
   "fr-FR": {
     "locale": "fr-FR",
@@ -372,7 +386,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=fr-FR",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=fr-FR",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe est aussi disponible sur Android, développé nativement pour la plateforme, avec la même offre gratuite (1 album, jusqu'à 10 éléments, 3 notes) et un achat Pro unique qui débloque des albums et éléments illimités, plus de notes, une sauvegarde chiffrée et des icônes alternatives. Les fichiers sont chiffrés sur l'appareil avec AES-256-GCM, les achats sont gérés par le système de facturation de Google Play, et la version Android n'inclut pas les fonctions Decoy Vault ni Intruder Capture."
   },
   "he": {
     "locale": "he",
@@ -397,7 +412,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=he",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=he",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "‏Zafe זמין גם ל-Android, פותח באופן טבעי עבור הפלטפורמה, עם אותה רמה חינמית (אלבום אחד, עד 10 פריטים, 3 פתקים) ורכישת Pro חד-פעמית שפותחת אלבומים ופריטים ללא הגבלה, פתקים נוספים, גיבוי מוצפן וסמלים חלופיים. הקבצים מוצפנים במכשיר באמצעות AES-256-GCM, הרכישות מטופלות דרך מערכת החיוב של Google Play, וגרסת ה-Android אינה כוללת את התכונות Decoy Vault או Intruder Capture."
   },
   "hi": {
     "locale": "hi",
@@ -422,7 +438,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=hi",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=hi",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe अब Android के लिए भी उपलब्ध है, जिसे इस प्लेटफ़ॉर्म के लिए मूल रूप से बनाया गया है, वही मुफ़्त सीमा (1 एल्बम, अधिकतम 10 आइटम, 3 नोट्स) और एक बार की Pro खरीद के साथ जो असीमित एल्बम और आइटम, अधिक नोट्स, एन्क्रिप्टेड बैकअप और वैकल्पिक आइकन अनलॉक करती है। फ़ाइलें डिवाइस पर AES-256-GCM से एन्क्रिप्ट होती हैं, खरीदारी Google Play की बिलिंग प्रणाली से संसाधित होती है, और Android संस्करण में Decoy Vault या Intruder Capture सुविधाएं शामिल नहीं हैं।"
   },
   "hr": {
     "locale": "hr",
@@ -447,7 +464,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=hr",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=hr",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe je dostupan i za Android, izvorno razvijen za tu platformu, s istom besplatnom razinom (1 album, do 10 stavki, 3 bilješke) i jednokratnom Pro kupnjom koja otključava neograničene albume i stavke, dodatne bilješke, šifriranu sigurnosnu kopiju i alternativne ikone. Datoteke se šifriraju na uređaju pomoću AES-256-GCM, kupnje se obrađuju putem sustava naplate Google Playa, a Android verzija ne uključuje Decoy Vault ni Intruder Capture."
   },
   "hu": {
     "locale": "hu",
@@ -472,7 +490,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=hu",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=hu",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "A Zafe Androidra is elérhető, natívan fejlesztve a platformra, ugyanazzal az ingyenes kerettel (1 album, legfeljebb 10 elem, 3 jegyzet) és egyszeri Pro vásárlással, amely korlátlan albumot és elemet, több jegyzetet, titkosított biztonsági mentést és alternatív ikonokat old fel. A fájlokat a készülék AES-256-GCM titkosítással védi, a vásárlásokat a Google Play számlázási rendszere kezeli, az Android verzió pedig nem tartalmazza a Decoy Vault vagy az Intruder Capture funkciókat."
   },
   "id": {
     "locale": "id",
@@ -497,7 +516,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=id",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=id",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe kini juga tersedia untuk Android, dikembangkan secara native untuk platform ini, dengan batas gratis yang sama (1 album, hingga 10 item, 3 catatan) dan pembelian Pro sekali beli yang membuka album dan item tak terbatas, lebih banyak catatan, cadangan terenkripsi, dan ikon alternatif. File dienkripsi di perangkat dengan AES-256-GCM, pembelian diproses melalui sistem penagihan Google Play, dan versi Android tidak menyertakan fitur Decoy Vault atau Intruder Capture."
   },
   "it": {
     "locale": "it",
@@ -522,7 +542,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=it",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=it",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe è disponibile anche per Android, sviluppato in modo nativo per la piattaforma, con lo stesso livello gratuito (1 album, fino a 10 elementi, 3 note) e un acquisto Pro una tantum che sblocca album ed elementi illimitati, altre note, backup crittografato e icone alternative. I file vengono crittografati sul dispositivo con AES-256-GCM, gli acquisti sono gestiti tramite il sistema di fatturazione di Google Play, e la versione Android non include Decoy Vault né Intruder Capture."
   },
   "ja": {
     "locale": "ja",
@@ -547,7 +568,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ja",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ja",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe は Android 版もネイティブで提供しています。無料版の範囲は同じ(アルバム1つ、最大10項目、メモ3件)で、買い切りの Pro 購入でアルバムと項目が無制限になり、メモの追加、暗号化バックアップ、代替アイコンが使えます。ファイルは端末内で AES-256-GCM により暗号化され、購入は Google Play の課金システムで処理されます。Android 版には Decoy Vault(おとり金庫)や Intruder Capture(侵入者撮影)機能は含まれません。"
   },
   "ko": {
     "locale": "ko",
@@ -572,7 +594,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ko",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ko",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe는 Android용도 네이티브로 제공됩니다. 무료 버전 범위는 동일하며(앨범 1개, 최대 10개 항목, 메모 3개), 1회 구매하는 Pro로 앨범과 항목 무제한, 추가 메모, 암호화 백업, 대체 아이콘을 사용할 수 있습니다. 파일은 기기 내에서 AES-256-GCM으로 암호화되며, 구매는 Google Play 결제 시스템으로 처리됩니다. Android 버전에는 Decoy Vault(위장 보관함)나 Intruder Capture(침입자 촬영) 기능이 포함되어 있지 않습니다."
   },
   "ms": {
     "locale": "ms",
@@ -597,7 +620,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ms",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ms",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe kini turut tersedia untuk Android, dibangunkan secara native untuk platform ini, dengan had percuma yang sama (1 album, sehingga 10 item, 3 nota) dan pembelian Pro sekali sahaja yang membuka kunci album dan item tanpa had, lebih banyak nota, sandaran tersulit dan ikon alternatif. Fail disulitkan pada peranti menggunakan AES-256-GCM, pembelian dikendalikan melalui sistem pengebilan Google Play, dan versi Android tidak termasuk ciri Decoy Vault atau Intruder Capture."
   },
   "nl-NL": {
     "locale": "nl-NL",
@@ -622,7 +646,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=nl-NL",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=nl-NL",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe is ook beschikbaar voor Android, native ontwikkeld voor het platform, met hetzelfde gratis niveau (1 album, tot 10 items, 3 notities) en een eenmalige Pro-aankoop die onbeperkte albums en items, meer notities, versleutelde back-up en alternatieve pictogrammen ontgrendelt. Bestanden worden op het apparaat versleuteld met AES-256-GCM, aankopen worden verwerkt via het factureringssysteem van Google Play, en de Android-versie bevat geen Decoy Vault of Intruder Capture."
   },
   "no": {
     "locale": "no",
@@ -647,7 +672,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=no",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=no",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe finnes også for Android, bygget nativt for plattformen, med samme gratisnivå (1 album, opptil 10 elementer, 3 notater) og et engangskjøp av Pro som låser opp ubegrensede album og elementer, flere notater, kryptert sikkerhetskopi og alternative ikoner. Filer krypteres på enheten med AES-256-GCM, kjøp håndteres via Google Plays faktureringssystem, og Android-versjonen inneholder ikke Decoy Vault eller Intruder Capture."
   },
   "pl": {
     "locale": "pl",
@@ -672,7 +698,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=pl",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=pl",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe jest dostępny także na Androida, stworzony natywnie dla tej platformy, z tym samym darmowym zakresem (1 album, do 10 elementów, 3 notatki) i jednorazowym zakupem Pro, który odblokowuje nieograniczone albumy i elementy, więcej notatek, zaszyfrowaną kopię zapasową i alternatywne ikony. Pliki są szyfrowane na urządzeniu za pomocą AES-256-GCM, zakupy są obsługiwane przez system rozliczeń Google Play, a wersja na Androida nie zawiera funkcji Decoy Vault ani Intruder Capture."
   },
   "pt-BR": {
     "locale": "pt-BR",
@@ -697,7 +724,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=pt-BR",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=pt-BR",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "O Zafe também está disponível para Android, desenvolvido de forma nativa para a plataforma, com o mesmo nível gratuito (1 álbum, até 10 itens, 3 notas) e uma compra Pro única que desbloqueia álbuns e itens ilimitados, mais notas, backup criptografado e ícones alternativos. Os arquivos são criptografados no dispositivo com AES-256-GCM, as compras são processadas pelo sistema de cobrança do Google Play, e a versão Android não inclui o Decoy Vault nem o Intruder Capture."
   },
   "pt-PT": {
     "locale": "pt-PT",
@@ -722,7 +750,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=pt-PT",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=pt-PT",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "O Zafe também está disponível para Android, desenvolvido de forma nativa para a plataforma, com o mesmo nível gratuito (1 álbum, até 10 itens, 3 notas) e uma compra Pro única que desbloqueia álbuns e itens ilimitados, mais notas, cópia de segurança encriptada e ícones alternativos. Os ficheiros são encriptados no dispositivo com AES-256-GCM, as compras são processadas através do sistema de faturação do Google Play, e a versão Android não inclui o Decoy Vault nem o Intruder Capture."
   },
   "ro": {
     "locale": "ro",
@@ -747,7 +776,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ro",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ro",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe este disponibil și pentru Android, dezvoltat nativ pentru această platformă, cu același nivel gratuit (1 album, până la 10 elemente, 3 note) și o achiziție Pro unică ce deblochează albume și elemente nelimitate, mai multe note, backup criptat și pictograme alternative. Fișierele sunt criptate pe dispozitiv cu AES-256-GCM, achizițiile sunt procesate prin sistemul de facturare Google Play, iar versiunea pentru Android nu include Decoy Vault sau Intruder Capture."
   },
   "ru": {
     "locale": "ru",
@@ -772,7 +802,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ru",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ru",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe также доступен для Android — приложение разработано нативно для этой платформы, с тем же бесплатным уровнем (1 альбом, до 10 элементов, 3 заметки) и единоразовой покупкой Pro, которая открывает неограниченное число альбомов и элементов, дополнительные заметки, зашифрованную резервную копию и альтернативные значки. Файлы шифруются на устройстве с помощью AES-256-GCM, покупки обрабатываются через систему выставления счетов Google Play, а версия для Android не включает функции Decoy Vault и Intruder Capture."
   },
   "sk": {
     "locale": "sk",
@@ -797,7 +828,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=sk",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=sk",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe je k dispozícii aj pre Android, vyvinutý natívne pre túto platformu, s rovnakou bezplatnou úrovňou (1 album, až 10 položiek, 3 poznámky) a jednorazovým nákupom Pro, ktorý odomkne neobmedzené albumy a položky, ďalšie poznámky, šifrovanú zálohu a alternatívne ikony. Súbory sú šifrované v zariadení pomocou AES-256-GCM, nákupy sa spracúvajú prostredníctvom fakturačného systému Google Play a verzia pre Android neobsahuje Decoy Vault ani Intruder Capture."
   },
   "sv": {
     "locale": "sv",
@@ -822,7 +854,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=sv",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=sv",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe finns också för Android, byggt nativt för plattformen, med samma gratisnivå (1 album, upp till 10 objekt, 3 anteckningar) och ett engångsköp av Pro som låser upp obegränsade album och objekt, fler anteckningar, krypterad säkerhetskopia och alternativa ikoner. Filer krypteras på enheten med AES-256-GCM, köp hanteras via Google Plays faktureringssystem, och Android-versionen innehåller inte Decoy Vault eller Intruder Capture."
   },
   "th": {
     "locale": "th",
@@ -847,7 +880,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=th",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=th",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe พร้อมให้ใช้งานบน Android แล้วเช่นกัน โดยพัฒนาแบบเนทีฟสำหรับแพลตฟอร์มนี้ ด้วยระดับฟรีเท่าเดิม (1 อัลบั้ม สูงสุด 10 รายการ 3 บันทึก) และการซื้อ Pro ครั้งเดียวที่ปลดล็อกอัลบั้มและรายการไม่จำกัด บันทึกเพิ่มเติม การสำรองข้อมูลแบบเข้ารหัส และไอคอนทางเลือก ไฟล์จะถูกเข้ารหัสในอุปกรณ์ด้วย AES-256-GCM การซื้อจะดำเนินการผ่านระบบเรียกเก็บเงินของ Google Play และเวอร์ชัน Android ไม่มีฟีเจอร์ Decoy Vault หรือ Intruder Capture"
   },
   "tr": {
     "locale": "tr",
@@ -872,7 +906,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=tr",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=tr",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe, Android için de platforma özel olarak geliştirilmiş şekilde sunulur; aynı ücretsiz kapsamla (1 albüm, en fazla 10 öğe, 3 not) ve sınırsız albüm ile öğe, daha fazla not, şifreli yedekleme ve alternatif simgelerin kilidini açan tek seferlik bir Pro satın alımıyla gelir. Dosyalar cihazda AES-256-GCM ile şifrelenir, satın almalar Google Play faturalandırma sistemi üzerinden işlenir ve Android sürümü Decoy Vault veya Intruder Capture özelliklerini içermez."
   },
   "uk": {
     "locale": "uk",
@@ -897,7 +932,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=uk",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=uk",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe також доступний для Android — застосунок розроблено нативно для цієї платформи, з тим самим безкоштовним рівнем (1 альбом, до 10 елементів, 3 нотатки) і одноразовою покупкою Pro, яка відкриває необмежену кількість альбомів і елементів, додаткові нотатки, зашифровану резервну копію та альтернативні значки. Файли шифруються на пристрої за допомогою AES-256-GCM, покупки обробляються через систему виставлення рахунків Google Play, а версія для Android не містить Decoy Vault і Intruder Capture."
   },
   "vi": {
     "locale": "vi",
@@ -922,7 +958,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=vi",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=vi",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe hiện cũng có trên Android, được phát triển gốc cho nền tảng này, với cùng hạn mức miễn phí (1 album, tối đa 10 mục, 3 ghi chú) và một lần mua Pro để mở khóa album và mục không giới hạn, thêm ghi chú, sao lưu mã hóa và biểu tượng thay thế. Tệp được mã hóa trên thiết bị bằng AES-256-GCM, giao dịch mua được xử lý qua hệ thống thanh toán của Google Play, và phiên bản Android không bao gồm tính năng Decoy Vault hay Intruder Capture."
   },
   "zh-Hans": {
     "locale": "zh-Hans",
@@ -947,7 +984,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=zh-Hans",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=zh-Hans",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe 也推出 Android 版,采原生开发,免费额度相同(1 个相册、最多 10 个项目、3 条笔记),一次性 Pro 内购可解锁无限相册与项目、更多笔记、加密备份与替代图标。文件在设备本地以 AES-256-GCM 加密,购买通过 Google Play 结算系统处理,Android 版不包含 Decoy Vault(诱饵保险库)或 Intruder Capture(入侵者拍照)功能。"
   },
   "zh-Hant": {
     "locale": "zh-Hant",
@@ -972,7 +1010,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=zh-Hant",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=zh-Hant",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe 也推出 Android 版,採原生開發,免費額度相同(1 個相簿、最多 10 個項目、3 則筆記),一次性 Pro 內購可解鎖無限相簿與項目、更多筆記、加密備份與替代圖示。檔案在裝置本機以 AES-256-GCM 加密,購買透過 Google Play 帳單處理,Android 版不包含 Decoy Vault(誘餌保險箱)或 Intruder Capture(入侵者拍照)功能。"
   },
   "bn-BD": {
     "locale": "bn-BD",
@@ -997,7 +1036,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=bn-BD",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=bn-BD",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe এখন Android-এর জন্যও পাওয়া যায়, এই প্ল্যাটফর্মের জন্য নেটিভভাবে তৈরি, একই ফ্রি সীমা (১টি অ্যালবাম, সর্বোচ্চ ১০টি আইটেম, ৩টি নোট) এবং এককালীন Pro কেনাকাটার মাধ্যমে সীমাহীন অ্যালবাম ও আইটেম, আরও নোট, এনক্রিপ্টেড ব্যাকআপ এবং বিকল্প আইকন আনলক হয়। ফাইলগুলো ডিভাইসেই AES-256-GCM দিয়ে এনক্রিপ্ট করা হয়, কেনাকাটা Google Play-এর বিলিং সিস্টেমের মাধ্যমে প্রক্রিয়া করা হয়, এবং Android সংস্করণে Decoy Vault বা Intruder Capture ফিচার নেই।"
   },
   "gu-IN": {
     "locale": "gu-IN",
@@ -1022,7 +1062,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=gu-IN",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=gu-IN",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe હવે Android માટે પણ ઉપલબ્ધ છે, આ પ્લેટફોર્મ માટે મૂળભૂત રીતે વિકસાવવામાં આવેલ, એ જ મફત મર્યાદા (1 આલ્બમ, વધુમાં વધુ 10 આઇટમ, 3 નોંધ) અને એક વખતની Pro ખરીદી અમર્યાદિત આલ્બમ અને આઇટમ, વધુ નોંધો, એન્ક્રિપ્ટેડ બેકઅપ અને વૈકલ્પિક આઇકન અનલૉક કરે છે. ફાઇલો ડિવાઇસ પર જ AES-256-GCM વડે એન્ક્રિપ્ટ થાય છે, ખરીદી Google Play ના બિલિંગ સિસ્ટમ મારફતે પ્રક્રિયા થાય છે, અને Android આવૃત્તિમાં Decoy Vault અથવા Intruder Capture સુવિધાઓ સામેલ નથી."
   },
   "kn-IN": {
     "locale": "kn-IN",
@@ -1047,7 +1088,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=kn-IN",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=kn-IN",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe ಈಗ Android ಗೂ ಲಭ್ಯವಿದೆ, ಈ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಾಗಿ ಸ್ಥಳೀಯವಾಗಿ ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಗಿದೆ, ಅದೇ ಉಚಿತ ಮಿತಿಯೊಂದಿಗೆ (1 ಆಲ್ಬಮ್, ಗರಿಷ್ಠ 10 ಐಟಂಗಳು, 3 ಟಿಪ್ಪಣಿಗಳು) ಮತ್ತು ಒಂದು ಬಾರಿಯ Pro ಖರೀದಿಯು ಅಪರಿಮಿತ ಆಲ್ಬಮ್‌ಗಳು ಮತ್ತು ಐಟಂಗಳು, ಹೆಚ್ಚಿನ ಟಿಪ್ಪಣಿಗಳು, ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ಬ್ಯಾಕಪ್ ಮತ್ತು ಪರ್ಯಾಯ ಐಕಾನ್‌ಗಳನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡುತ್ತದೆ. ಫೈಲ್‌ಗಳನ್ನು ಸಾಧನದಲ್ಲೇ AES-256-GCM ನೊಂದಿಗೆ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗುತ್ತದೆ, ಖರೀದಿಗಳನ್ನು Google Play ಬಿಲ್ಲಿಂಗ್ ವ್ಯವಸ್ಥೆಯ ಮೂಲಕ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತದೆ, ಮತ್ತು Android ಆವೃತ್ತಿಯಲ್ಲಿ Decoy Vault ಅಥವಾ Intruder Capture ವೈಶಿಷ್ಟ್ಯಗಳಿಲ್ಲ."
   },
   "ml-IN": {
     "locale": "ml-IN",
@@ -1072,7 +1114,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ml-IN",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ml-IN",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe ഇപ്പോൾ Android-നും ലഭ്യമാണ്, ഈ പ്ലാറ്റ്‌ഫോമിനായി സ്വാഭാവികമായി വികസിപ്പിച്ചത്, അതേ സൗജന്യ പരിധിയോടെ (1 ആൽബം, പരമാവധി 10 ഇനങ്ങൾ, 3 കുറിപ്പുകൾ) കൂടാതെ ഒറ്റത്തവണ Pro വാങ്ങൽ പരിധിയില്ലാത്ത ആൽബങ്ങളും ഇനങ്ങളും, കൂടുതൽ കുറിപ്പുകൾ, എൻക്രിപ്റ്റ് ചെയ്ത ബാക്കപ്പ്, ബദൽ ഐക്കണുകൾ എന്നിവ അൺലോക്ക് ചെയ്യുന്നു. ഫയലുകൾ ഉപകരണത്തിൽത്തന്നെ AES-256-GCM ഉപയോഗിച്ച് എൻക്രിപ്റ്റ് ചെയ്യുന്നു, വാങ്ങലുകൾ Google Play ബില്ലിംഗ് സിസ്റ്റം വഴി പ്രോസസ്സ് ചെയ്യുന്നു, കൂടാതെ Android പതിപ്പിൽ Decoy Vault അല്ലെങ്കിൽ Intruder Capture ഫീച്ചറുകൾ ഇല്ല."
   },
   "mr-IN": {
     "locale": "mr-IN",
@@ -1097,7 +1140,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=mr-IN",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=mr-IN",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe आता Android साठीही उपलब्ध आहे, या प्लॅटफॉर्मसाठी मूळतः तयार केलेले, तीच मोफत मर्यादा (1 अल्बम, जास्तीत जास्त 10 आयटम, 3 नोट्स) आणि एकदाच केलेली Pro खरेदी अमर्यादित अल्बम आणि आयटम, अधिक नोट्स, एन्क्रिप्टेड बॅकअप आणि पर्यायी आयकॉन अनलॉक करते. फाइल्स डिव्हाइसवरच AES-256-GCM ने एन्क्रिप्ट केल्या जातात, खरेदी Google Play च्या बिलिंग प्रणालीद्वारे प्रक्रिया केली जाते, आणि Android आवृत्तीत Decoy Vault किंवा Intruder Capture वैशिष्ट्ये नाहीत."
   },
   "or-IN": {
     "locale": "or-IN",
@@ -1122,7 +1166,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=or-IN",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=or-IN",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe ବର୍ତ୍ତମାନ Android ପାଇଁ ମଧ୍ୟ ଉପଲବ୍ଧ, ଏହି ପ୍ଲାଟଫର୍ମ ପାଇଁ ମୂଳତଃ ତିଆରି, ସମାନ ମାଗଣା ସୀମା (1 ଆଲବମ୍, ସର୍ବାଧିକ 10 ଆଇଟମ୍, 3 ନୋଟ୍) ଏବଂ ଏକ ଥର Pro କ୍ରୟ ଅସୀମିତ ଆଲବମ୍ ଏବଂ ଆଇଟମ୍, ଅଧିକ ନୋଟ୍, ଏନକ୍ରିପ୍ଟେଡ୍ ବ୍ୟାକଅପ୍ ଏବଂ ବିକଳ୍ପ ଆଇକନ୍ ଅନଲକ୍ କରେ। ଫାଇଲଗୁଡ଼ିକ ଡିଭାଇସରେ AES-256-GCM ସହିତ ଏନକ୍ରିପ୍ଟ ହୁଏ, କ୍ରୟଗୁଡ଼ିକ Google Play ର ବିଲିଂ ସିଷ୍ଟମ୍ ମାଧ୍ୟମରେ ପ୍ରକ୍ରିୟାକରଣ ହୁଏ, ଏବଂ Android ସଂସ୍କରଣରେ Decoy Vault କିମ୍ବା Intruder Capture ବୈଶିଷ୍ଟ୍ୟ ନାହିଁ।"
   },
   "pa-IN": {
     "locale": "pa-IN",
@@ -1147,7 +1192,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=pa-IN",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=pa-IN",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe ਹੁਣ Android ਲਈ ਵੀ ਉਪਲਬਧ ਹੈ, ਇਸ ਪਲੇਟਫਾਰਮ ਲਈ ਖਾਸ ਤੌਰ 'ਤੇ ਬਣਾਇਆ ਗਿਆ, ਉਹੀ ਮੁਫ਼ਤ ਸੀਮਾ (1 ਐਲਬਮ, ਵੱਧ ਤੋਂ ਵੱਧ 10 ਆਈਟਮਾਂ, 3 ਨੋਟਸ) ਅਤੇ ਇੱਕ ਵਾਰ ਦੀ Pro ਖਰੀਦ ਨਾਲ ਅਸੀਮਤ ਐਲਬਮਾਂ ਅਤੇ ਆਈਟਮਾਂ, ਵਧੇਰੇ ਨੋਟਸ, ਇਨਕ੍ਰਿਪਟਡ ਬੈਕਅੱਪ ਅਤੇ ਬਦਲਵੇਂ ਆਈਕਨ ਅਨਲੌਕ ਹੁੰਦੇ ਹਨ। ਫਾਈਲਾਂ ਡਿਵਾਈਸ 'ਤੇ ਹੀ AES-256-GCM ਨਾਲ ਇਨਕ੍ਰਿਪਟ ਹੁੰਦੀਆਂ ਹਨ, ਖਰੀਦਦਾਰੀ Google Play ਦੇ ਬਿਲਿੰਗ ਸਿਸਟਮ ਰਾਹੀਂ ਪ੍ਰੋਸੈਸ ਹੁੰਦੀ ਹੈ, ਅਤੇ Android ਵਰਜਨ ਵਿੱਚ Decoy Vault ਜਾਂ Intruder Capture ਫੀਚਰ ਸ਼ਾਮਲ ਨਹੀਂ ਹਨ।"
   },
   "sl-SI": {
     "locale": "sl-SI",
@@ -1172,7 +1218,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=sl-SI",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=sl-SI",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe je na voljo tudi za Android, izvorno razvit za to platformo, z enako brezplačno ravnjo (1 album, do 10 elementov, 3 opombe) in enkratnim nakupom Pro, ki odklene neomejeno število albumov in elementov, dodatne opombe, šifrirano varnostno kopijo in alternativne ikone. Datoteke so na napravi šifrirane z AES-256-GCM, nakupi se obdelujejo prek sistema zaračunavanja Google Play, različica za Android pa ne vključuje Decoy Vault ali Intruder Capture."
   },
   "ta-IN": {
     "locale": "ta-IN",
@@ -1197,7 +1244,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ta-IN",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ta-IN",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe இப்போது Android-க்கும் கிடைக்கிறது, இந்த தளத்திற்கென சொந்தமாக உருவாக்கப்பட்டுள்ளது, அதே இலவச வரம்புடன் (1 ஆல்பம், அதிகபட்சம் 10 உருப்படிகள், 3 குறிப்புகள்) மற்றும் ஒரு முறை Pro வாங்குதல் வரம்பற்ற ஆல்பங்கள் மற்றும் உருப்படிகள், கூடுதல் குறிப்புகள், குறியாக்கம் செய்யப்பட்ட காப்புப்பிரதி மற்றும் மாற்று ஐகான்களை திறக்கிறது. கோப்புகள் சாதனத்திலேயே AES-256-GCM மூலம் குறியாக்கம் செய்யப்படுகின்றன, கொள்முதல் Google Play பில்லிங் முறைமை வழியாக செயலாக்கப்படுகிறது, மேலும் Android பதிப்பில் Decoy Vault அல்லது Intruder Capture அம்சங்கள் இல்லை."
   },
   "te-IN": {
     "locale": "te-IN",
@@ -1222,7 +1270,8 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=te-IN",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=te-IN",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe ఇప్పుడు Android కోసం కూడా అందుబాటులో ఉంది, ఈ ప్లాట్‌ఫారమ్ కోసం సహజంగా రూపొందించబడింది, అదే ఉచిత పరిమితితో (1 ఆల్బమ్, గరిష్టంగా 10 అంశాలు, 3 నోట్స్) మరియు ఒకసారి Pro కొనుగోలుతో అపరిమిత ఆల్బమ్‌లు మరియు అంశాలు, మరిన్ని నోట్స్, ఎన్‌క్రిప్టెడ్ బ్యాకప్ మరియు ప్రత్యామ్నాయ చిహ్నాలు అన్‌లాక్ అవుతాయి. ఫైళ్లు పరికరంలోనే AES-256-GCM తో ఎన్‌క్రిప్ట్ చేయబడతాయి, కొనుగోళ్లు Google Play బిల్లింగ్ సిస్టమ్ ద్వారా ప్రాసెస్ చేయబడతాయి, మరియు Android వెర్షన్‌లో Decoy Vault లేదా Intruder Capture ఫీచర్లు లేవు."
   },
   "ur-PK": {
     "locale": "ur-PK",
@@ -1247,6 +1296,7 @@ window.ZAFE_LOCALES = {
     "supportUrl": "https://alice51849.github.io/zafe-support/support.html?lang=ur-PK",
     "marketingUrl": "https://alice51849.github.io/zafe-support/?lang=ur-PK",
     "eulaUrl": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "email": "hourstag.app@gmail.com"
+    "email": "hourstag.app@gmail.com",
+    "android": "Zafe اب Android کے لیے بھی دستیاب ہے، اس پلیٹ فارم کے لیے مقامی طور پر تیار کیا گیا، وہی مفت حد (1 البم، زیادہ سے زیادہ 10 items، 3 نوٹس) اور ایک بار کی Pro خریداری لامحدود البمز اور items، مزید نوٹس، انکرپٹڈ بیک اپ اور متبادل آئیکنز ان لاک کرتی ہے۔ فائلیں ڈیوائس پر ہی AES-256-GCM سے انکرپٹ ہوتی ہیں، خریداری Google Play کے بلنگ سسٹم سے پراسیس ہوتی ہے، اور Android ورژن میں Decoy Vault یا Intruder Capture فیچرز شامل نہیں ہیں۔"
   }
 };
